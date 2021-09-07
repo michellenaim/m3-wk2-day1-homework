@@ -1,0 +1,14 @@
+{
+  "name": "m3-wk2-day1-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michelle Naim",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.1.1"
+  }
+}
